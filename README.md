@@ -43,8 +43,7 @@ The dataset contains employee-related information such as:
 HR-Analytics-Dashboard/
 │
 ├── data/
-├── notebooks/
 ├── src/
-├── images/
+├── image/
 ├── README.md
 └── .gitignore
