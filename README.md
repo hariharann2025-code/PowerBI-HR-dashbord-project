@@ -70,5 +70,3 @@ HR-Analytics-Dashboard/
 │   └── dashboard.png
 │
 ├── README.md
-│
-└── .gitignore
